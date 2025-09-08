@@ -5,9 +5,9 @@ Based on my findings, the data shows that ramen brands are widely distributed ac
 
 <img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/247f96d8-94dd-4a4c-8de9-028d5f3c7699" />
 
-🇯🇵 Japan - Leading the global market with the highest concentration of ramen brands
-🇺🇸 United States - Second largest market, indicating strong Western adoption
-🇰🇷 South Korea - Third position, showcasing Korea's significant ramen culture
+1. 🇯🇵 Japan - Leading the global market with the highest concentration of ramen brands
+2. 🇺🇸 United States - Second largest market, indicating strong Western adoption
+3. 🇰🇷 South Korea - Third position, showcasing Korea's significant ramen culture
 
 The top 10 most famous ramen brands with reviews include:
 <img width="668" height="455" alt="image" src="https://github.com/user-attachments/assets/97479f11-45ca-4552-8440-99fd15294da0" />
