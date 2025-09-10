@@ -32,8 +32,11 @@ Top ramen distribution types include:
 <img width="593" height="455" alt="image" src="https://github.com/user-attachments/assets/593b9ee2-9447-4aed-9620-6f73ad0d1c1a" />
 
 Most Popular Formats:
+
 Pack - Traditional packaging format, most widely distributed
+
 Bowl - Convenient ready-to-eat format with growing popularity
+
 Cup - Portable single-serve option for on-the-go consumption
 
 Focusing on Malaysian market, there are 3 top brands that have the same ratings as Maggi:
