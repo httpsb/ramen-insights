@@ -2,7 +2,7 @@
 This ramen brand analysis project identifies top-rated alternatives to Maggi noodles based on similar taste profiles and consumer ratings.
 
 Language: python
-tools used:
+Tools used:
 1. pandas
 2. matplotlib
 3. seaborn
