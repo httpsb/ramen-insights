@@ -1,7 +1,13 @@
 # ramen-insights
-Ramen brand recommendation system that identifies top-rated alternatives to Maggi noodles based on similar taste profiles and consumer ratings.
+This ramen brand analysis project identifies top-rated alternatives to Maggi noodles based on similar taste profiles and consumer ratings.
 
-Based on my findings, the data shows that ramen brands are widely distributed across Asia, establishing the region as the dominant market for instant noodles globally. This distribution pattern reflects both cultural preferences and manufacturing capabilities in Asian markets.
+Language: python
+tools used:
+1. pandas
+2. matplotlib
+3. seaborn
+
+Based on my findings, the data shows that various ramen brands are widely distributed across Asia, establishing the region as the dominant market for instant noodles globally. This distribution pattern reflects both cultural preferences and manufacturing capabilities in Asian markets.
 
 <img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/247f96d8-94dd-4a4c-8de9-028d5f3c7699" />
 
@@ -31,7 +37,7 @@ Focusing on Malaysian market, there are 3 top brands that have the same ratings 
 4. Mamee
 
 Another famous multi-food brand in Malaysia also includes Adabi. But could its instant noodles compete with Maggi based on its ratings?
-- based on my insight, Maggi has the rating of  4.75 while adabi has the rating of  3.5.
+- based on my findings, Maggi has the rating of  4.75 while adabi has the rating of  3.5.
 
 Therefore, Adabi still has a long way to catchup with Maggi.
 
